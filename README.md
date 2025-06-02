@@ -74,6 +74,18 @@ climate-dashboard/
 ├── requirements.txt
 └── README.md
 ```
+## About the CO2 dataset...
+Follow this link for more information about our dataset:
+## https://isabel0216.github.io/CO2-DATA/ including 
+
+### Including
+- Interactive data filtering by country and year
+- Customizable column selection (up to 10 columns)
+- Sortable data tables
+- Detailed tooltips with column descriptions
+- Responsive design
+- Comprehensive codebook with data descriptions
+
 
 ## Data Sources
 
